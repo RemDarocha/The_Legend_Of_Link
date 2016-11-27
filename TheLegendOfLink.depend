@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1480261401 source:d:\cours\epsi b2\c++\thelegendoflink\combatcyclope.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"personnage.h"
+	"randomNumber.h"
+	"scenario.h"
+	<cstdio>
+
+1479824356 d:\cours\epsi b2\c++\thelegendoflink\personnage.h
+	<string>
+
+1479738104 d:\cours\epsi b2\c++\thelegendoflink\randomnumber.h
+
+1479832041 d:\cours\epsi b2\c++\thelegendoflink\scenario.h
+
+1480260572 source:d:\cours\epsi b2\c++\thelegendoflink\combatepouvantail.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"personnage.h"
+	"randomNumber.h"
+	"scenario.h"
+	<cstdio>
+
+1480261420 source:d:\cours\epsi b2\c++\thelegendoflink\combatganon.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"personnage.h"
+	"randomNumber.h"
+	"scenario.h"
+	<cstdio>
+
+1480261413 source:d:\cours\epsi b2\c++\thelegendoflink\combatloup.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"personnage.h"
+	"randomNumber.h"
+	"scenario.h"
+	<cstdio>
+
+1478775782 source:d:\cours\epsi b2\c++\thelegendoflink\loup.cpp
+
+1480261586 source:d:\cours\epsi b2\c++\thelegendoflink\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<cstdio>
+	<MMSystem.h>
+	"personnage.h"
+	"randomNumber.h"
+	"scenario.h"
+	"combatLoup.h"
+	"combatEpouvantail.h"
+	"combatCyclope.h"
+	"combatGanon.h"
+
+1479986820 d:\cours\epsi b2\c++\thelegendoflink\combatloup.h
+
+1479986995 d:\cours\epsi b2\c++\thelegendoflink\combatepouvantail.h
+
+1479987379 d:\cours\epsi b2\c++\thelegendoflink\combatcyclope.h
+
+1479988590 d:\cours\epsi b2\c++\thelegendoflink\combatganon.h
+
+1479830981 source:d:\cours\epsi b2\c++\thelegendoflink\personnage.cpp
+	"personnage.h"
+	"randomNumber.h"
+	<iostream>
+	<string>
+
+1479829410 source:d:\cours\epsi b2\c++\thelegendoflink\randomnumber.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<cstdio>
+	<ctime>
+	<cstdlib>
+
+1480258543 source:d:\cours\epsi b2\c++\thelegendoflink\scenario.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+
+1478685186 source:d:\cours\epsi b2\c++\thelegendoflink\zelda.cpp
+

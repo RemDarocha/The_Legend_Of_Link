@@ -1,0 +1,55 @@
+LINK
+Dans la contree lointaine de Hyrule, Link, epeiste confirme de legende, membre de la garde royale et sauveur de Hyrule (17 fois), se fait rattrapper par son grand ennemi Ganon.
+Il l'emprisonne dans son chateau dans les terres de Moriaki afin de drainer ses pouvoirs dans le but de conquerir Hyrule et imposer sa tyrannie. 
+Vous, princesse Zelda avez pour quete de retrouver Link et l'arracher des griffes de Ganon par tous les moyens possibles.
+Pour arriver a le sauver, une quete epique avec de nombreux choix possibles vous attend. L'aventure n'attend plus que vous !
+
+Pour demarrer votre aventure vous decidez de vous entrainer contre un epouvantail pour tester vos competences.
+
+Une fois l'epouvantail mis en pieces vous decidez fermement de commencer votre quete et vous quittez la ville sans rien dire a personne un soir de pleine lune pour eviter d'attirer l'attention. 
+
+Mais l'exterieur de la ville est sombre et regorge de dangers. Apres vos premieres lieues effectuees sur une petite route, vous arrivez dans une foret nommee foret d'Elwynn.
+Cette foret reputee normalement chaleureuse et paisible est devenue un lieu de rendez-vous pour les loups.
+Apres avoir marche un petit moment dans cette foret, vous entendez des bruits derriere un fourre.
+Vous jetez un coup d'oeil et vous apercevez un enorme loup au milieu de votre chemin entrain de gratter la terre et de renifler les environs.
+A la vue de ce loup, une seule chose vous vient en tete : le combattre. Vous vous approchez donc de lui et le provoquez.
+
+Si reussite du combat :
+Apres un combat mouvemente contre la bete feroce, vous en sortez victorieuse et pleine d'espoir pour la suite de votre quete.
+Vous continuez d'avancer dans cette foret a present vide de tout danger et vous apercevez enfin la fin du chemin qui mene a la sortie de la foret.
+
+Si defaite du combat :
+Apres un combat mene tant bien que mal, vous arrivez a vous enfuir de l'emprise de ce loup avant qu'il vous assene un coup fatal.
+Alors que celui-ci vous pourchasse, vous arrivez a vous cacher dans un buisson et a lui echapper.
+Apres un petit moment d'attente dans le buisson afin d'etre sure que tout danger est ecarte, vous sortez de celui-ci et vous continuez sur le chemin menant a la sortie de la foret.
+
+Apres etre sortie de la foret d'Elwynn, vous continuer de suivre le chemin en direction des terres de Moriaki, lieu ou se trouve le chateau de Ganon.
+Apres quelques lieues au milieu des champs, vous devez traverser une riviere qui bloque votre passage.
+Le seul moyen s'offrant a vous est un pont garde par un cyclope. N'ayant pas d'autre choix, vous decidez de l'attaquer.
+
+Si reussite du combat :
+Apres un combat epique, vous arrivez enfin a terrasser le colosse uni-oeil. Il s'effondre devant vous dans un dernier rale et vous pouvez donc passer le pont.
+Votre quete pour delivrer Link n'a jamais ete aussi proche de la fin !
+
+Si defaite du combat :
+Apres de nombreux coups echanges et votre vitalite s'affaiblissant, vous vous rendez-compte que vous ne faites pas le poids face a lui.
+Votre unique moyen d'eviter de vous faire tuer est de sauter dans la riviere et de se laisser porter par le courant pour s'enfuir.
+Heureusement que le cyclope ne sait pas nager et qu'il craint l'eau. Vous remontez sur la rive et reprenez votre chemin en direction du chateau. 
+
+Suite a ce nouvel episode, vous arrivez enfin dans les terres de Moriaki et vous apercevez le fameux chateau de Ganon ou est enferme notre cher Link.
+Apres avoir parcouru les quelques lieues restantes, vous arrivez enfin au pied du chateau.
+Vous rentrez dedans prudemment, prete a affronter les dangers qui peuvent surgir de n'importe ou et pourtant, le chateau est etrangement vide, pas le moindre signe de vie a l'horizon.
+Vous grimpez donc les escaliers menant au sommet du chateau a la recherche de Link.
+Vous vous retrouvez face a une immense porte en bois massif au bout d'un couloir, aucun doute, c'est la que se trouve Link !
+Vous ouvrez tout doucement la porte et vous penetrez dans la piece.
+Comme vous l'attendiez, Link est attache sur le trone au fond de la piece et entre vous se trouve le terrible Ganon qui vous attend.
+Il n'y a pas d'autres choix que de le combattre pour liberer votre cher et tendre !
+
+Si reussite du combat :
+Vous avez reussi a terrasser Ganon apres un combat ou vous avez puise dans toutes vos ressources pour le vaincre et cela a porte ses fruits.
+Vous enjambez le corps sans vie du mechant et vous vous approchez du trone pour liberer Link de ses liens.
+Des que les liens furent brises, Link se jette sur vous pour un baiser passionne. 
+
+Si defaite du combat :
+Malgre tous vos pouvoirs, vous n'avez pas reussi a vaincre Ganon.
+Allongee sur le sol, vous regardez Ganon s'approcher de Link pour aspirer tous ses pouvoirs en plonger le monde dans l'obscurite et le chaos.
