@@ -45,7 +45,7 @@ int main()
 
 
 
-    Afficher("Quand vous serez prete a combatre appuyez sur la touche ENTREE..");
+    Afficher("Quand vous serez prete a combattre appuyez sur la touche ENTREE..");
     cout << endl;
 
     int touche = 0;

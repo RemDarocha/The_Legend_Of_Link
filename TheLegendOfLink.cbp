@@ -31,6 +31,28 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Linker>
+			<Add library="winmm" />
+		</Linker>
+		<Unit filename="combatCyclope.cpp" />
+		<Unit filename="combatCyclope.h" />
+		<Unit filename="combatEpouvantail.cpp" />
+		<Unit filename="combatEpouvantail.h" />
+		<Unit filename="combatGanon.cpp" />
+		<Unit filename="combatGanon.h" />
+		<Unit filename="combatLoup.cpp" />
+		<Unit filename="combatLoup.h" />
+		<Unit filename="loup.cpp" />
+		<Unit filename="loup.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="personnage.cpp" />
+		<Unit filename="personnage.h" />
+		<Unit filename="randomNumber.cpp" />
+		<Unit filename="randomNumber.h" />
+		<Unit filename="scenario.cpp" />
+		<Unit filename="scenario.h" />
+		<Unit filename="zelda.cpp" />
+		<Unit filename="zelda.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
